@@ -1,9 +1,6 @@
 # 💫About Me :
 📝 My name is Mani Khoshnood.
 🌐 I'm 17 years old and live in Iran.
-💻 I'm working with C#, Lua, HTML, CSS and ...
-📂 But I work More on FiveM.
-❓ If you have question, you can ask me. 
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/theMani_kh#0021) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themani-kh) 
