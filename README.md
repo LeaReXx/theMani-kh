@@ -2,8 +2,8 @@
 
 ## 👋 Hello, I'm Mani.
 ## 📝 I'm 17 years old and based in Iran, Bandar Abbas.
-## 💻 I work on Backend and Server-side.
-## 🌐 Actually I Work on Fivem Game Servers with lua and use ESX and QB Frameworks.
+## 💻 I work on Backend and Server-side More.
+## 📂 Actually I Work on Fivem Game Servers with lua and use ESX and QB Frameworks.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Mani#1000) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/themani-kh) 
