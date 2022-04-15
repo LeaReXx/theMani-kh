@@ -1,6 +1,6 @@
 <h1 align="center">👋 I'm Mani</h1>
 <div align="center">
-💻 I'm a Backend Developer
+🗂 I'm a Backend Developer
 <br />
 <br />
 🏙 I live in BandarAbbas, Iran.
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-<h3 align="center">💻 Tech Skills</h3>
+<h3 align="center">Tech Skills 💻</h3>
 <div align="center">
 <img alt="Linux" title="Linux"  src="http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000" />
 <img  alt="Python" title="Python"  src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
