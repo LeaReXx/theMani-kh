@@ -25,8 +25,28 @@
 </div>
 <br />
 
-<h3 align="center">Github Stats :compass:</h3>
-<br />
+<h3 align="center">Github Stats 🧭</h3>
 <div align="center">
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMani-kh&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+  
+<br />
+
+![github stats](https://github-readme-stats.vercel.app/api?username=theMani-kh&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
+<br />
 </div>
+
+
+<h3 align="center">Connect with me 📩</h3>
+<div align="center">
+<a href="https://github.com/theMani-kh">
+<img align="center" alt="theMani-kh | Github"  src="http://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=FFFFFF" />
+</a>
+<a href="https://discord.gg/zQgx3R7GAf">
+<img align="center" alt="theMani-kh | discord"  src="http://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=FFFFFF" />
+</a>
+</div>
+
+
+[github]: https://github.com/theMani-kh
+[discord]: https://discord.gg/zQgx3R7GAf
