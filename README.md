@@ -5,13 +5,14 @@
 <br />
 - ❤ Love To Learn Everything :)
 <br />
-<br />
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=theMani-kh&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="theMani-kh" /> 
 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=theMani-kh&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="theMani-kh" />
 </div>
 
+<br />
+<br />
 
 <h3 align="center">💻 Tech Skills</h3>
 <div align="center">
@@ -22,8 +23,10 @@
 <img  alt="HTML5" title="HTML5"  src="http://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF" />
 <img alt="CSS3" title="CSS3"  src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF" />
 </div>
+<br />
 
 <h3 align="center">Github Stats :compass:</h3>
 <div align="center">
 
+<br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMani-kh&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
