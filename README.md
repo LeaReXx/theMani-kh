@@ -2,7 +2,9 @@
 <div align="center">
 💻 I'm a Backend Developer
 <br />
+<br />
 🏙 I live in BandarAbbas, Iran.
+<br />
 <br />
 ❤ Love To Learn Everything :)
 </div>
@@ -38,7 +40,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=theMani-kh&theme=gruvbox_duo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
 <br />
 </div>
-
+<br />
 
 <h3 align="center">Connect with me 📩</h3>
 <div align="center">
