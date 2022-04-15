@@ -1,13 +1,14 @@
 <h1 align="center">👋 I'm Mani</h1>
 <div align="center">
-- 💻 I'm a Backend Developer
+💻 I'm a Backend Developer
 <br />
-- 🏙 I live in BandarAbbas, Iran.
+🏙 I live in BandarAbbas, Iran.
 <br />
-- ❤ Love To Learn Everything :)
+❤ Love To Learn Everything :)
 </div>
 <br />
-
+<br />
+<br />
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=theMani-kh&label=Profile%20views&color=3E98B4&style=for-the-badge&" alt="theMani-kh" />
