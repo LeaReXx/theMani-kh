@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Mani</h1>
+<h1 align="center">👋 I'm Mani</h1>
 - 💻 I'm a Backend Developer
 <br />
 - 🏙 I live in BandarAbbas, Iran.
@@ -23,14 +23,7 @@
 <img alt="CSS3" title="CSS3"  src="http://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF" />
 </div>
 
-
-
-
-<br />
-
 <h3 align="center">Github Stats :compass:</h3>
 <div align="center">
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMani-kh&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
-  
-<br />\
