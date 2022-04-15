@@ -1,9 +1,11 @@
 <h1 align="center">👋 I'm Mani</h1>
+<div align="center">
 - 💻 I'm a Backend Developer
 <br />
 - 🏙 I live in BandarAbbas, Iran.
 <br />
 - ❤ Love To Learn Everything :)
+</div>
 <br />
 
 
