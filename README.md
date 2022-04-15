@@ -26,6 +26,5 @@
 <br />
 
 <h3 align="center">Github Stats :compass:</h3>
-<br />
 <div align="center">
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMani-kh&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3E98B4&icon_color=3E98B4)
